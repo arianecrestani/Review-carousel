@@ -4,6 +4,9 @@ It's a nice feature to have on an e-commerce site to display customer reviews or
 This is a project vanilla js solution in Freecodecamp videos. I did as the intention of the practice
 
 #### preview
+
+file:///Users/arianecrestani/Documents/GitHub/Untitled/index.html
+
 ![](./Screenshot.png)
 
 #### what I leaned 
