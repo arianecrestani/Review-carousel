@@ -9,7 +9,7 @@ https://arianecrestani.github.io/Review-carousel/
 
 ![](./Screenshot.png)
 
-#### what I leaned 
+#### What I leaned ?
 
  I learned how to create a revisions carousel with a button that generates random revisions.
  
