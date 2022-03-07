@@ -5,8 +5,6 @@ This is a project vanilla js solution in Freecodecamp videos. I did as the inten
 
 #### preview
 
-file:///Users/arianecrestani/Documents/GitHub/Untitled/index.html
-
 ![](./Screenshot.png)
 
 #### what I leaned 
