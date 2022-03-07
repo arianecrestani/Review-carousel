@@ -3,7 +3,9 @@
 It's a nice feature to have on an e-commerce site to display customer reviews or in a personal portfolio to display your customer reviews.
 This is a project vanilla js solution in Freecodecamp videos. I did as the intention of the practice
 
-#### preview
+### Preview
+
+https://arianecrestani.github.io/Review-carousel/
 
 ![](./Screenshot.png)
 
