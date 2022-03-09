@@ -21,3 +21,4 @@ https://arianecrestani.github.io/Review-carousel/
 - array.length
 - textContent
 
+
